@@ -57,7 +57,7 @@
 
 - 📧 Email: **shammikumar3833@gmail.com**
 - 🔗 GitHub: https://github.com/shammi00  
-- 🔗 LinkedIn: *(add your LinkedIn link here)*
+- 🔗 LinkedIn: www.linkedin.com/in/shammikumarsingh
 
 ---
 
