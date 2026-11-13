@@ -1,161 +1,121 @@
-# Hi there! 👋 I'm Shammi Kumar Singh
+<!-- GitHub Profile README for github.com/shammi00 -->
 
-### AI & Machine Learning Student | Python Developer | Exploring Generative AI
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning** at Malla Reddy University (Expected Graduation: 2028)
+<div align="center">
 
-💻 Passionate about building practical applications using Machine Learning, Deep Learning, and Python.
+  <img src="./github-profile-photo.png"
+       alt="Shammi Kumar Singh"
+       width="180" />
 
-🚀 Interested in **AI/ML Engineering, MLOps, and Generative AI**.
+  <h1>Hey there! 👋 I'm Shammi Kumar Singh</h1>
 
-🌱 Currently learning **LangChain, Hugging Face, LLMs, and Retrieval-Augmented Generation (RAG)** through hands-on implementations.
+  <h3>AI/ML Developer | Python | Deep Learning | Generative AI</h3>
 
-🎯 Open to AI/ML internships, technical collaborations, and learning opportunities.
+</div>
 
----
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm an Artificial Intelligence and Machine Learning undergraduate who enjoys understanding how technologies work and applying them to real-world problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=850&color=38BDF8&center=true&vCenter=true&width=680&lines=Machine+Learning+%7C+Deep+Learning;Python+%7C+MLOps+%7C+Cloud;Exploring+LLMs+%7C+LangChain+%7C+RAG;Turning+ideas+into+real+AI+applications)](https://git.io/typing-svg)
 
-My projects cover the end-to-end machine learning workflow, including data preprocessing, model training, evaluation, web application development, and deployment-related practices.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shammikumarsingh/)
+[![GitHub](https://img.shields.io/badge/GitHub-shammi00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammi00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammi00?tab=repositories)
 
-I'm also exploring Deep Learning, MLOps, and Generative AI by building applications and documenting my learning journey on GitHub.
+</div>
 
----
+## 👋 About Me
 
-## 🛠️ Technical Skills
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning**, Malla Reddy University — **Class of 2028**
+- 🤖 Building **end-to-end ML and DL applications**, from preprocessing and model training to web interfaces
+- ☁️ Exploring **MLOps and cloud workflows** using MLflow, DagsHub, Docker, and AWS
+- 📚 Currently learning **Generative AI, LangChain, Hugging Face, and RAG** through hands-on implementations
+- 🎯 Interested in **AI/ML internships** and opportunities to build practical AI solutions
 
-**Programming Languages**
-- Python, Java, SQL
+## 🧰 Tech Stack
 
-**Machine Learning & Data Science**
-- Scikit-learn, XGBoost, CatBoost
-- NumPy, Pandas
-- Data Preprocessing, Feature Engineering, Model Evaluation
-- Classification and Regression
+**Languages & Data**
 
-**Deep Learning**
-- TensorFlow, Keras
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
-- Natural Language Processing (NLP)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Generative AI — Currently Learning**
-- LangChain, Hugging Face
-- LLM Integration and Prompt Templates
-- Retrieval-Augmented Generation (RAG)
-- Embeddings, FAISS, Chroma
-- LangChain Expression Language (LCEL)
+**Machine Learning & Deep Learning**
 
-**Backend & Application Development**
-- Flask, FastAPI, Streamlit
-- REST APIs, HTML, CSS
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-334155?style=flat-square)
 
-**MLOps & Cloud**
-- MLflow, DagsHub
-- Docker, GitHub Actions
-- AWS S3, ECR, EC2
-- MongoDB Atlas
+**Apps, MLOps & Cloud**
 
-**Developer Tools**
-- Git, GitHub, VS Code, Jupyter Notebook
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+**Generative AI — Learning & Practicing**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
 
 ## 🚀 Featured Projects
 
-### 1. [Network Security — Phishing Detection with MLOps](https://github.com/shammi00/networksecurity)
+| Project | What I Built | Key Technologies |
+| :--- | :--- | :--- |
+| 🛡️ **[Network Security — Phishing Detection](https://github.com/shammi00/networksecurity)** | End-to-end ML pipeline with ingestion, validation, experiment tracking, FastAPI and AWS integration | Python, Scikit-learn, MLflow, DagsHub, MongoDB, Docker, AWS |
+| 🎓 **[Student Performance Prediction](https://github.com/shammi00/student-performance-prediction)** | Mathematics score prediction with model training, preprocessing and a Flask interface | Scikit-learn, XGBoost, CatBoost, Flask |
+| 🔥 **[Forest Fire Weather Index Prediction](https://github.com/shammi00/forest-fire-prediction)** | Interactive **FWI regression** app using environmental and weather features | Ridge Regression, Scikit-learn, Flask |
+| 🧠 **[ANN Classification & Regression](https://github.com/shammi00/ANN-Classification-and-Regression)** | Customer churn classification and experimental salary regression applications | TensorFlow, Keras, Streamlit |
+| 🎬 **[IMDB Sentiment Analysis — Simple RNN](https://github.com/shammi00/End-To-End-Deep-Learning-Project-With-Simple-RNN)** | Movie review sentiment classification using a Simple RNN and a Streamlit UI | TensorFlow, Keras, NLP, Streamlit |
 
-An end-to-end machine learning project demonstrating phishing detection, data pipelines, experiment tracking, and cloud integration.
+## 🌱 Currently Exploring: Generative AI
 
-**Tech Stack:** Python, Scikit-learn, MongoDB, MLflow, DagsHub, FastAPI, Docker, AWS, GitHub Actions
+📘 **[LangChain Learning Repository](https://github.com/shammi00/Langchain-Learning)** — ongoing hands-on course work, not a finished production app.
 
-**Highlights:**
-- Automated data ingestion, validation, transformation, and model training
-- Experiment tracking and performance evaluation
-- Cloud artifact storage and containerized application workflows
-- FastAPI endpoints and experiment dashboard
+```text
+Documents / Websites
+        ↓
+   Data Ingestion
+        ↓
+   Text Splitting
+        ↓
+     Embeddings
+        ↓
+FAISS / Chroma Vector Store
+        ↓
+ Retrieval + LLM (RAG)
+```
 
-### 2. [Student Performance Prediction](https://github.com/shammi00/student-performance-prediction)
+Learning and experimenting with **OpenAI, Ollama, Hugging Face, LCEL, LangServe, FastAPI**, and vector databases.
 
-An end-to-end ML application that predicts students' mathematics exam scores using academic and background information.
+## 📊 GitHub Activity
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, CatBoost, Flask, Pandas
+<div align="center">
 
-**Highlights:**
-- Exploratory data analysis and preprocessing
-- Regression model training and evaluation
-- Interactive Flask web application
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shammi00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-### 3. [Forest Fire Weather Index Prediction](https://github.com/shammi00/forest-fire-prediction)
+</div>
 
-A regression-based ML application that estimates Fire Weather Index (FWI) using environmental and meteorological data.
+> I enjoy learning by building — understanding the idea, implementing it, and improving it one project at a time.
 
-**Tech Stack:** Python, Scikit-learn, Ridge Regression, Flask
+<div align="center">
 
-**Highlights:**
-- Data cleaning and exploratory analysis
-- Feature scaling and regression experiments
-- Interactive FWI prediction interface
+**💬 Let's connect and build something useful!**
 
-### 4. [ANN Classification and Regression](https://github.com/shammi00/ANN-Classification-and-Regression)
+[LinkedIn](https://www.linkedin.com/in/shammikumarsingh/) · [Repositories](https://github.com/shammi00?tab=repositories)
 
-Two deep learning implementations covering bank customer churn classification and experimental salary regression.
+</div>
 
-**Tech Stack:** TensorFlow, Keras, Scikit-learn, Streamlit
-
-**Highlights:**
-- Artificial Neural Network model development
-- Data preprocessing and hyperparameter tuning
-- Interactive prediction applications
-
-### 5. [IMDB Movie Review Sentiment Analysis](https://github.com/shammi00/End-To-End-Deep-Learning-Project-With-Simple-RNN)
-
-A natural language processing application that classifies movie reviews as positive or negative using a Simple RNN.
-
-**Tech Stack:** Python, TensorFlow, Keras, Simple RNN, Streamlit
-
-**Highlights:**
-- Text preprocessing and word embeddings
-- Recurrent Neural Network implementation
-- Interactive sentiment prediction interface
-
----
-
-## 📚 Currently Learning
-
-### [LangChain & Generative AI — Hands-on Learning](https://github.com/shammi00/Langchain-Learning)
-
-An ongoing collection of practical implementations exploring Generative AI technologies.
-
-**Topics explored:**
-- OpenAI and Ollama model integration
-- Document loading and text splitting
-- Text embeddings using OpenAI, Ollama, and Hugging Face
-- FAISS and Chroma vector stores
-- LCEL, prompt templates, and output parsers
-- LangServe, FastAPI, and Streamlit integrations
-
-Currently expanding this repository as I progress through my Generative AI learning journey.
-
----
-
-## 🎯 Career Interests
-
-- Machine Learning Engineering
-- AI Application Development
-- Deep Learning and NLP
-- Generative AI and RAG Systems
-- MLOps and Model Deployment
-
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [Shammi Kumar Singh](https://www.linkedin.com/in/shammikumarsingh/)
-- **GitHub:** [shammi00](https://github.com/shammi00)
-
-I'm always interested in learning new technologies, improving my projects, and collaborating on meaningful AI/ML work.
-
-**Thanks for visiting my GitHub profile! ⭐**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=95&section=footer)
